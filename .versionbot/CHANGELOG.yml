@@ -1,4 +1,17 @@
 - commits:
+    - subject: 'linux-raspberrypi: Add gasket driver for raspberrypi4-64'
+      hash: 2e31c3b71bc8310de41b2e5224e75838086b3b73
+      body: ''
+      footer:
+        Changelog-entry: 'linux-raspberrypi: Add gasket driver for raspberrypi4-64'
+        changelog-entry: 'linux-raspberrypi: Add gasket driver for raspberrypi4-64'
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 2.83.21+rev2
+  date: 2021-09-09T20:46:18.770Z
+- commits:
     - subject: Update meta-balena from v2.83.10 to v2.83.21
       hash: e0d458c59513ad7ef30ea6d769da085809db3af5
       body: |
