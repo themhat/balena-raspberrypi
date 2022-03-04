@@ -12,7 +12,7 @@
   "packageRules": [
     {
       "matchPackagePatterns": ["*"],
-      "excludePackagePatterns": [".*meta-balena",".*balena-yocto-scripts"],
+      "excludePackagePatterns": [".*meta-balena",".*balena-yocto-scripts",".*test-submodule"],
       "enabled": false
     },
     {
