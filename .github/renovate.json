@@ -2,7 +2,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "local>renovatebot/.github",
-    ":semanticCommitsDisabled"
+    ":semanticCommitsDisabled",
+    ":disableDependencyDashboard"
   ],
   "semanticCommitScope": "deps",
   "stabilityDays": 0,
