@@ -1,6 +1,13 @@
 Change log
 -----------
 
+# v2.94.4+rev1
+## (2022-03-08)
+
+* Disable dependency dashboard [Alex Gonzalez]
+* Update renovate configuration for test-submodule [Alex Gonzalez]
+* Add test-submodule [Alex Gonzalez]
+
 # v2.85.2+rev3
 ## (2021-09-23)
 

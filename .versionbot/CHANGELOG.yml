@@ -1,4 +1,38 @@
 - commits:
+    - subject: Disable dependency dashboard
+      hash: a72174546e9feedc9bffe10655ee45ba8417cedf
+      body: ''
+      footer:
+        Changelog-entry: Disable dependency dashboard
+        changelog-entry: Disable dependency dashboard
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+    - subject: Update renovate configuration for test-submodule
+      hash: 4c37488d6c23e5838c034e8986f6c9c7be56a137
+      body: |
+        Include updates to test-submodule
+      footer:
+        Changelog-entry: Update renovate configuration for test-submodule
+        changelog-entry: Update renovate configuration for test-submodule
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+    - subject: Add test-submodule
+      hash: 46555379f8eb977422b5817d982625660ed7734c
+      body: ''
+      footer:
+        Changelog-entry: Add test-submodule
+        changelog-entry: Add test-submodule
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+  version: 2.94.4+rev1
+  date: 2022-03-08T18:19:45.019Z
+- commits:
     - subject: Restore rtl8188eufw firmware (requested for cm4-ioboard and pi400)
       hash: 00f6bd77b155ba317c17d558b1d715eb0768d04d
       body: |
