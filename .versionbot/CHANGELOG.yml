@@ -1,4 +1,17 @@
 - commits:
+    - subject: modify README
+      hash: bae8f1509de5457c3e9968f7e0300e03f4b74789
+      body: ''
+      footer:
+        Changelog-entry: modify README
+        changelog-entry: modify README
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+  version: 2.95.0+rev1
+  date: 2022-03-08T20:22:14.718Z
+- commits:
     - subject: Disable dependency dashboard
       hash: a72174546e9feedc9bffe10655ee45ba8417cedf
       body: ''

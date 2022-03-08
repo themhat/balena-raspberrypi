@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.95.0+rev1
+## (2022-03-08)
+
+* modify README [Alex Gonzalez]
+
 # v2.94.4+rev1
 ## (2022-03-08)
 
