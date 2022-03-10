@@ -1,6 +1,28 @@
 Change log
 -----------
 
+# v2.95.1
+## (2022-03-10)
+
+
+<details>
+<summary> Update layers/meta-balena to 9191bc412d404e761d672d1750cd7fe5e2418550 [Renovate Bot] </summary>
+
+> ## meta-balena-2.95.1
+> ### (2022-03-08)
+> 
+> * tests: Add leviathan v2.0.0 as a submodule [Kyle Harding]
+> * tests/cloud: Cleanup wait until loops in cloud suite [Kyle Harding]
+> * tests/hup: Remove bluebird and this.context.get references [Kyle Harding]
+> * tests/os: Remove bluebird and this.context.get references [Kyle Harding]
+> * tests/cloud: Remove bluebird and this.context.get references [Kyle Harding]
+> * tests: Cleanup suites config to support both testbot and qemu workers [Kyle Harding]
+> * tests/cloud: Update cloud suite to support core on client [Kyle Harding]
+> * tests/hup: Update hup suite to support core on client [Kyle Harding]
+> * tests/os: Update os suite to support core on client [Kyle Harding]
+> 
+</details>
+
 # v2.95.0+rev4
 ## (2022-03-10)
 
