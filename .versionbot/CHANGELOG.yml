@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update layers/test-submodule to 4476a0155d65e781582ade0da770bb087e3f69ff
+      hash: 5b04fc0c73091fdf875615464e7966f46408b972
+      body: Update layers/test-submodule
+      footer:
+        Changelog-entry: Update layers/test-submodule to
+          4476a0155d65e781582ade0da770bb087e3f69ff
+        changelog-entry: Update layers/test-submodule to
+          4476a0155d65e781582ade0da770bb087e3f69ff
+      author: Renovate Bot
+      nested: []
+  version: 2.95.1+rev1
+  title: ""
+  date: 2022-03-11T09:17:09.762Z
+- commits:
     - subject: Update layers/meta-balena to 9191bc412d404e761d672d1750cd7fe5e2418550
       hash: 6a790f17ec0db10d2176ecc3e8f8994626a377cd
       body: Update layers/meta-balena
