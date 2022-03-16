@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.95.2+rev1
+## (2022-03-16)
+
+* Update layers/test-submodule to ede7e7ee76874c20b80eb7fec2c4f61aa6f1a70e [Renovate Bot]
+
 # v2.95.2
 ## (2022-03-16)
 
