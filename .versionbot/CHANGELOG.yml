@@ -1,4 +1,65 @@
 - commits:
+    - subject: Update versionist
+      hash: 3d16f098375c69cbb351f317c8dddb5792459405
+      body: ""
+      footer:
+        Changelog-entry: Update versionist
+        changelog-entry: Update versionist
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+    - subject: Update repo.yml
+      hash: 6dfd928f2e68dba08dbb980246acdaf6d04807dc
+      body: ""
+      footer:
+        Changelog-entry: Update repo.yml
+        changelog-entry: Update repo.yml
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+    - subject: Update versionist workflow
+      hash: 7fc03d05d1c3ca13837fc8ba5405be787a64c1e7
+      body: |
+        Use alexgg/versionist@alexgg-nested-changelog-v3
+      footer:
+        Changelog-entry: Update versionist workflow
+        changelog-entry: Update versionist workflow
+        Signed-off-by: Alex Gonzalez <alexg@balena.io>
+        signed-off-by: Alex Gonzalez <alexg@balena.io>
+      author: Alex Gonzalez
+      nested: []
+    - subject: Update layers/test-submodule to eb3ac62fcfee9da208970e52e1861fc4511faab1
+      hash: 1637cd486d73ca1e630b768d6dd5622613954695
+      body: Update layers/test-submodule
+      footer:
+        Changelog-entry: Update layers/test-submodule to
+          eb3ac62fcfee9da208970e52e1861fc4511faab1
+        changelog-entry: Update layers/test-submodule to
+          eb3ac62fcfee9da208970e52e1861fc4511faab1
+      author: Renovate Bot
+      nested: []
+    - subject: Update balena-yocto-scripts to a038ecce793495cbab26693a4e3ee31255e80390
+      hash: 4ef38df70327b4b4097bd4b1adde3b4e566dc55b
+      body: Update balena-yocto-scripts
+      footer:
+        Changelog-entry: Update balena-yocto-scripts to a038ecce793495cbab26693a4e3ee31255e80390
+        changelog-entry: Update balena-yocto-scripts to a038ecce793495cbab26693a4e3ee31255e80390
+      author: Renovate Bot
+      nested: []
+    - subject: Update layers/meta-balena to 947820261c5dceefe10df1ef9189cc88d8474381
+      hash: 7d8946d8956bc276c05edac0fccfbde044891d7e
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to 947820261c5dceefe10df1ef9189cc88d8474381
+        changelog-entry: Update layers/meta-balena to 947820261c5dceefe10df1ef9189cc88d8474381
+      author: Renovate Bot
+      nested: []
+  version: 2.95.2
+  title: ""
+  date: 2022-03-16T21:34:45.847Z
+- commits:
     - subject: Update layers/test-submodule to 4476a0155d65e781582ade0da770bb087e3f69ff
       hash: 5b04fc0c73091fdf875615464e7966f46408b972
       body: Update layers/test-submodule

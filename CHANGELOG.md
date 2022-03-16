@@ -1,6 +1,16 @@
 Change log
 -----------
 
+# v2.95.2
+## (2022-03-16)
+
+* Update versionist [Alex Gonzalez]
+* Update repo.yml [Alex Gonzalez]
+* Update versionist workflow [Alex Gonzalez]
+* Update layers/test-submodule to eb3ac62fcfee9da208970e52e1861fc4511faab1 [Renovate Bot]
+* Update balena-yocto-scripts to a038ecce793495cbab26693a4e3ee31255e80390 [Renovate Bot]
+* Update layers/meta-balena to 947820261c5dceefe10df1ef9189cc88d8474381 [Renovate Bot]
+
 # v2.95.1+rev1
 ## (2022-03-11)
 
