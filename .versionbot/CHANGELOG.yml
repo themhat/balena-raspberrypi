@@ -1,4 +1,32 @@
 - commits:
+    - subject: Update layers/meta-balena to bcec43ab9c872493f94d477d0a7c1a068a84f9ad
+      hash: 0a66e2b12a9395bb3f8d094f512405af345846c9
+      body: Update layers/meta-balena
+      footer:
+        Changelog-entry: Update layers/meta-balena to bcec43ab9c872493f94d477d0a7c1a068a84f9ad
+        changelog-entry: Update layers/meta-balena to bcec43ab9c872493f94d477d0a7c1a068a84f9ad
+      author: Renovate Bot
+      nested:
+        - commits:
+            - subject: "balena-supervisor: Update balena-supervisor to v12.11.38 Ensure
+                preloaded applications are ran when no internet is available on
+                first run"
+              hash: 08058f8671704f7d925ed97c3202b3620570a95b
+              body: ""
+              footer:
+                Change-type: patch
+                change-type: patch
+                Signed-off-by: 20k-ultra <3946250+20k-ultra@users.noreply.github.com>
+                signed-off-by: 20k-ultra <3946250+20k-ultra@users.noreply.github.com>
+              author: 20k-ultra
+              nested: []
+          version: meta-balena-2.95.3
+          title: "'balena-supervisor: Update balena-supervisor to v12.11.38'"
+          date: 2022-03-15T23:32:43.991Z
+  version: 2.95.3
+  title: ""
+  date: 2022-03-17T09:32:01.318Z
+- commits:
     - subject: Update layers/test-submodule to ede7e7ee76874c20b80eb7fec2c4f61aa6f1a70e
       hash: 64ac975eb32cbd29ebfeac89a8101f0353a665ec
       body: Update layers/test-submodule

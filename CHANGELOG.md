@@ -1,6 +1,20 @@
 Change log
 -----------
 
+# v2.95.3
+## (2022-03-17)
+
+
+<details>
+<summary> Update layers/meta-balena to bcec43ab9c872493f94d477d0a7c1a068a84f9ad [Renovate Bot] </summary>
+
+> ## meta-balena-2.95.3
+> ### (2022-03-15)
+> 
+> * balena-supervisor: Update balena-supervisor to v12.11.38 Ensure preloaded applications are ran when no internet is available on first run [20k-ultra]
+> 
+</details>
+
 # v2.95.2+rev1
 ## (2022-03-16)
 
